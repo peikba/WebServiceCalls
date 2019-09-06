@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Soap:Envelope xmlns:Soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <Soap:Body>
+    <ReadMultiple_Result xmlns="urn:microsoft-dynamics-schemas/page/ws_customers">
+      <ReadMultiple_Result>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDAAMQAxADIAMQAyADEAMg==6;3036740;</Key>
+          <No>01121212</No>
+          <Name>Spotsmeyer's Furnishings</Name>
+          <City>Miami</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDAAMQA0ADQANQA1ADQANA==6;3036770;</Key>
+          <No>01445544</No>
+          <Name>Progressive Home Furnishings</Name>
+          <City>Chicago</City>
+          <Balance_LCY>1499.03</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDAAMQA0ADUANAA1ADQANQ==6;3036820;</Key>
+          <No>01454545</No>
+          <Name>New Concepts Furniture</Name>
+          <City>Atlanta</City>
+          <Balance_LCY>222241.32</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDAAMQA5ADAANQA4ADkAMw==6;2305730;</Key>
+          <No>01905893</No>
+          <Name>Candoxy Canada Inc.</Name>
+          <City>Thunder Bay</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDAAMQA5ADAANQA4ADkAOQ==6;2305750;</Key>
+          <No>01905899</No>
+          <Name>Elkhorn Airport</Name>
+          <City>Elkhorn</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDAAMQA5ADAANQA5ADAAMg==6;2305770;</Key>
+          <No>01905902</No>
+          <Name>London Candoxy Storage Campus</Name>
+          <City>London</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>24;EgAAAAJ7BTEAMAAwADAAMA==6;3038960;</Key>
+          <No>10000</No>
+          <Name>The Cannon Group PLC</Name>
+          <City>Birmingham</City>
+          <Balance_LCY>168364.41</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>24;EgAAAAJ7BTIAMAAwADAAMA==6;3038990;</Key>
+          <No>20000</No>
+          <Name>Selangorian Ltd.</Name>
+          <City>Coventry</City>
+          <Balance_LCY>96049.99</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDIAMAAzADAAOQA5ADIAMA==6;3039020;</Key>
+          <No>20309920</No>
+          <Name>Metatorad Malaysia Sdn Bhd</Name>
+          <City>PETALING JAYA, Selangor</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDIAMAAzADEAMgA5ADEAMg==6;2305850;</Key>
+          <No>20312912</No>
+          <Name>Highlights Electronics Sdn Bhd</Name>
+          <City>KUALA LUMPUR</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDIAMAAzADMAOQA5ADIAMQ==6;2305870;</Key>
+          <No>20339921</No>
+          <Name>TraxTonic Sdn Bhd</Name>
+          <City>KUCHING, Sarawak</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDIAMQAyADMAMwA1ADcAMg==6;2305890;</Key>
+          <No>21233572</No>
+          <Name>Somadis</Name>
+          <City>AGDAL-RABAT</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDIAMQAyADQANQAyADcAOA==6;2305910;</Key>
+          <No>21245278</No>
+          <Name>Maronegoce</Name>
+          <City>CASABLANCA</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDIAMQAyADUAMgA5ADQANw==6;2305930;</Key>
+          <No>21252947</No>
+          <Name>ElectroMAROC</Name>
+          <City>TEMARA</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDIANwAwADkAMAA5ADEANw==6;2305950;</Key>
+          <No>27090917</No>
+          <Name>Zanlan Corp.</Name>
+          <City>Carletonville</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDIANwAzADIAMQA3ADgAMg==6;2305970;</Key>
+          <No>27321782</No>
+          <Name>Karoo Supermarkets</Name>
+          <City>Bloemfontein</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDIANwA0ADgAOQA5ADkAMQ==6;2305990;</Key>
+          <No>27489991</No>
+          <Name>Durbandit Fruit Exporters</Name>
+          <City>Durban</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>24;EgAAAAJ7BTMAMAAwADAAMA==6;2306010;</Key>
+          <No>30000</No>
+          <Name>John Haddock Insurance Co.</Name>
+          <City>Manchester</City>
+          <Balance_LCY>349615.4</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAMQA1ADAANQAwADUAMA==6;2306030;</Key>
+          <No>31505050</No>
+          <Name>Woonboulevard Kuitenbrouwer</Name>
+          <City>Zutphen</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAMQA2ADYAOQA5ADYANg==6;2306050;</Key>
+          <No>31669966</No>
+          <Name>Meersen Meubelen</Name>
+          <City>Arnhem</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAMQA5ADgANwA5ADgANw==6;2306070;</Key>
+          <No>31987987</No>
+          <Name>Candoxy Nederland BV</Name>
+          <City>Amsterdam</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAMgAxADIANAA1ADcAOA==6;2306090;</Key>
+          <No>32124578</No>
+          <Name>Nieuwe Zandpoort NV</Name>
+          <City>Herentals</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAMgA2ADUANgA1ADYANQ==6;2306110;</Key>
+          <No>32656565</No>
+          <Name>Antarcticopy</Name>
+          <City>Antwerpen</City>
+          <Balance_LCY>2582.8</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAMgA3ADgAOQA0ADUANg==6;2306130;</Key>
+          <No>32789456</No>
+          <Name>Lovaina Contractors</Name>
+          <City>Leuven</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAMwAwADAAMAAwADEAOQ==6;2306150;</Key>
+          <No>33000019</No>
+          <Name>Francematic</Name>
+          <City>PLAISIR</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAMwAwADAAMgA5ADgANA==6;2306170;</Key>
+          <No>33002984</No>
+          <Name>Parmentier Boutique</Name>
+          <City>PARIS</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAMwAwADIAMgA4ADQAMg==6;2306190;</Key>
+          <No>33022842</No>
+          <Name>Livre Importants</Name>
+          <City>ESBLY</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMANAAwADEAMAAxADAAMA==6;2306210;</Key>
+          <No>34010100</No>
+          <Name>Libros S.A.</Name>
+          <City>Barcelona</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMANAAwADEAMAAxADkAOQ==6;2306230;</Key>
+          <No>34010199</No>
+          <Name>Corporación Beta</Name>
+          <City>Valencia</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMANAAwADEAMAA2ADAAMg==6;2306250;</Key>
+          <No>34010602</No>
+          <Name>Helguera industrial</Name>
+          <City>Madrid</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMANQAxADIAMgAxADEAMg==6;2306270;</Key>
+          <No>35122112</No>
+          <Name>Bilabankinn</Name>
+          <City>Kopavogur</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMANQA0ADUAMQAyADMANg==6;2306290;</Key>
+          <No>35451236</No>
+          <Name>Gagn &amp; Gaman</Name>
+          <City>Hafnafjordur</City>
+          <Balance_LCY>877.32</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMANQA5ADYAMwA4ADUAMg==6;2306310;</Key>
+          <No>35963852</No>
+          <Name>Heimilisprydi</Name>
+          <City>Reykjavik</City>
+          <Balance_LCY>2024.21</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAOAAxADIAOAA0ADUANg==6;2306330;</Key>
+          <No>38128456</No>
+          <Name>MEMA Ljubljana d.o.o.</Name>
+          <City>Ljubljana</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAOAA1ADQANgA1ADUAMg==6;2306350;</Key>
+          <No>38546552</No>
+          <Name>EXPORTLES d.o.o.</Name>
+          <City>Ljubljana</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDMAOAA2ADMAMgAxADQANw==6;2306370;</Key>
+          <No>38632147</No>
+          <Name>Centromerkur d.o.o.</Name>
+          <City>Maribor</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>24;EgAAAAJ7BTQAMAAwADAAMA==6;2306390;</Key>
+          <No>40000</No>
+          <Name>Deerfield Graphics Company</Name>
+          <City>Gloucester</City>
+          <Balance_LCY>1328.88</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAMQAyADMAMQAyADEANQ==6;2306410;</Key>
+          <No>41231215</No>
+          <Name>Sonnmatt Design</Name>
+          <City>Glattbrugg</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAMQA0ADkANwA2ADQANw==6;2306430;</Key>
+          <No>41497647</No>
+          <Name>Pilatus AG</Name>
+          <City>Luzern</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAMQA1ADkANwA4ADMAMg==6;2306450;</Key>
+          <No>41597832</No>
+          <Name>Möbel Scherrer AG</Name>
+          <City>Schaffhausen</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAMgAxADQANwAyADUAOA==6;2306470;</Key>
+          <No>42147258</No>
+          <Name>BYT-KOMPLET s.r.o.</Name>
+          <City>Bojkovice</City>
+          <Balance_LCY>1602.9</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAMgAyADUAOAAyADUAOA==6;2306490;</Key>
+          <No>42258258</No>
+          <Name>J &amp; V v.o.s.</Name>
+          <City>Vracov</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAMgAzADYAOQAxADQANw==6;2306510;</Key>
+          <No>42369147</No>
+          <Name>PLECHKONSTRUKT a.s.</Name>
+          <City>Znojmo</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAMwA2ADgANwAxADIAOQ==6;2306530;</Key>
+          <No>43687129</No>
+          <Name>Designstudio Gmunden</Name>
+          <City>Gmunden</City>
+          <Balance_LCY>13732.6</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAMwA4ADUAMgAxADQANw==6;2306550;</Key>
+          <No>43852147</No>
+          <Name>Michael Feit - Möbelhaus</Name>
+          <City>Wr. Neudorf</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAMwA4ADcAMQAxADQANA==6;2306580;</Key>
+          <No>43871144</No>
+          <Name>Möbel Siegfried</Name>
+          <City>Wien</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANAAxADcAMQA1ADEAMQ==6;2088040;</Key>
+          <No>44171511</No>
+          <Name>Zuni Home Crafts Ltd.</Name>
+          <City>Dudley</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANAAxADgAMAAyADIAMA==6;2087780;</Key>
+          <No>44180220</No>
+          <Name>Afrifield Corporation</Name>
+          <City>Maidstone</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANAA3ADUANgA0ADAANA==6;2088300;</Key>
+          <No>44756404</No>
+          <Name>London Light Company</Name>
+          <City>Cambridge</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANQAyADgAMgA4ADIAOA==6;2306600;</Key>
+          <No>45282828</No>
+          <Name>Candoxy Kontor A/S</Name>
+          <City>Arhus C</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANQAyADgAMgA4ADIAOQ==6;2306620;</Key>
+          <No>45282829</No>
+          <Name>Carl Anthony</Name>
+          <City>Arhus C</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANQA3ADcAOQA5ADcANw==6;2306640;</Key>
+          <No>45779977</No>
+          <Name>Ravel Møbler</Name>
+          <City>Nyborg</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANQA5ADcAOQA3ADkANw==6;2306660;</Key>
+          <No>45979797</No>
+          <Name>Lauritzen Kontormøbler A/S</Name>
+          <City>Alborg</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANgAyADUAMQA0ADIANQ==6;2306680;</Key>
+          <No>46251425</No>
+          <Name>Marsholm Karmstol</Name>
+          <City>Halmstad</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANgA1ADIANQAyADQAMQ==6;2306700;</Key>
+          <No>46525241</No>
+          <Name>Konberg Tapet AB</Name>
+          <City>Jonkobing</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANgA4ADkANwA4ADgAOQ==6;2306720;</Key>
+          <No>46897889</No>
+          <Name>Englunds Kontorsmöbler AB</Name>
+          <City>Norrkobing</City>
+          <Balance_LCY>673.71</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANwA1ADIAMwA2ADgANw==6;2306740;</Key>
+          <No>47523687</No>
+          <Name>Slubrevik Senger AS</Name>
+          <City>Asker</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANwA1ADYAMwAyADEAOA==6;2306760;</Key>
+          <No>47563218</No>
+          <Name>Klubben</Name>
+          <City>Haslum</City>
+          <Balance_LCY>11772.2</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQANwA1ADgANgA5ADUANA==6;2306780;</Key>
+          <No>47586954</No>
+          <Name>Sjøboden</Name>
+          <City>Sandvika</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAOQA1ADIANQAyADUAMg==6;2309250;</Key>
+          <No>49525252</No>
+          <Name>Beef House</Name>
+          <City>Dusseldorf</City>
+          <Balance_LCY>11941.36</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAOQA2ADMAMwA2ADYAMw==6;2309270;</Key>
+          <No>49633663</No>
+          <Name>Autohaus Mielberg KG</Name>
+          <City>Hamburg 36</City>
+          <Balance_LCY>7924.8</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>32;EgAAAAJ7CDQAOQA4ADUAOAA1ADgANQ==6;2309290;</Key>
+          <No>49858585</No>
+          <Name>Hotel Pferdesee</Name>
+          <City>Frankfurt/Main</City>
+          <Balance_LCY>14395.75</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>24;EgAAAAJ7BTUAMAAwADAAMA==6;2309330;</Key>
+          <No>50000</No>
+          <Name>Guildford Water Department</Name>
+          <City>Guildford</City>
+          <Balance_LCY>666.75</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>24;EgAAAAJ7BTYAMAAwADAAMA==6;2308730;</Key>
+          <No>60000</No>
+          <Name>Blanemark Hifi Shop</Name>
+          <City>London</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>24;EgAAAAJ7BTYAMQAwADAAMA==6;2308750;</Key>
+          <No>61000</No>
+          <Name>Fairway Sound</Name>
+          <City>London</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>24;EgAAAAJ7BTYAMgAwADAAMA==6;2308770;</Key>
+          <No>62000</No>
+          <Name>The Device Shop</Name>
+          <City>London</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>24;EgAAAAJ7/0kAQwAxADAAMgAw6;2306880;</Key>
+          <No>IC1020</No>
+          <Name>Cronus Cardoxy Sales</Name>
+          <City>Copenhagen</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+        <WS_Customers>
+          <Key>24;EgAAAAJ7/0kAQwAxADAAMwAw6;2306900;</Key>
+          <No>IC1030</No>
+          <Name>Cronus Cardoxy Procurement</Name>
+          <City>Hamburg</City>
+          <Balance_LCY>0</Balance_LCY>
+        </WS_Customers>
+      </ReadMultiple_Result>
+    </ReadMultiple_Result>
+  </Soap:Body>
+</Soap:Envelope>

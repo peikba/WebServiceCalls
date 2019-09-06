@@ -1,0 +1,27 @@
+{
+  "id": "1ce8e535-5aea-44ba-82e8-d394260debdd",
+  "name": "Web Service Customer",
+  "publisher": "D. E. Veloper",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "target": "Internal",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://WebServiceCustomer.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
