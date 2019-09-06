@@ -35,9 +35,9 @@ codeunit 50108 "BAC Import Customers Soap"
             XMLoptions.PreserveWhitespace := true;
             XmlDocument.ReadFrom(xmlText, XMLoptions, XMLDoc);
             //error('%1', XMLDoc);
-            if XmlDoc.SelectNodes('/WS_Customers', XmlNodeList) then begin
+            if XmlDoc.SelectNodes('//WS_Customers', XmlNodeList) then begin
                 foreach XmlNode in XmlNodeList do begin
-                    if XmlNode.SelectSingleNode('No', XmlNode) then
+                    if XmlNode.SelectSingleNode('./No', XmlNode) then
                         TempCust."No." := XmlNode.AsXmlElement.InnerText;
 
                     if XmlNode.SelectSingleNode('Name', XmlNode) then
